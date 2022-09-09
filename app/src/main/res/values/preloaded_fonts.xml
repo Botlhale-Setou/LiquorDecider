@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/akaya_telivigala</item>
+        <item>@font/bai_jamjuree_bold</item>
+        <item>@font/bangers</item>
+        <item>@font/chango</item>
+    </array>
+</resources>
